@@ -10,7 +10,7 @@ title: Tortore e Colombe
 email: enrico.papi@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Descrizione
-baseurl: "CarloCollodi" # the subpath of your site, e.g. /blog
+baseurl: "/CarloCollodi" # the subpath of your site, e.g. /blog
 url: "enricop.github.io" # the base hostname & protocol for your site
 github_username:  enricop
 

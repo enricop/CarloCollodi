@@ -1895,3 +1895,7 @@ figure.code span {
   -webkit-transition-delay: 0, 0.3s;
   transition-delay: 0, 0.3s;
 }
+
+.center-image {
+    text-align: center;
+}

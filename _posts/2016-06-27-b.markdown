@@ -1,0 +1,20 @@
+---
+layout: post
+title: "b"
+date: 2016-06-27 12:00
+author: enrico
+---
+
+![Timore della porta](http://5p2p.it/img/posts/per-sempre-mi-fai-paura.jpg){: .center-image }
+
+![sete](http://www.inerboristeria.com/files/smettere-di-bere-fa-dimagrire.jpg){: .center-image }
+
+![acqua fredda innesca](http://www.guidaallapesca.it/wp-content/uploads/2015/09/pesca-sul-ghiaccio.jpg){: .center-image }
+
+***
+
+![Sarà musica](http://www.ladigetto.it/files.php?file=/olds/Maurizio%20D%20C%20T.jpg){: .center-image }
+
+![sete](http://www.inerboristeria.com/files/smettere-di-bere-fa-dimagrire.jpg){: .center-image }
+
+![silenzio](http://www.suonoinfinito.it/wp-content/uploads/2015/11/suono-infinito-2184x1228.jpg){: .center-image }

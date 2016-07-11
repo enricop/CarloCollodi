@@ -1,0 +1,20 @@
+---
+layout: post
+title: "c"
+date: 2016-06-28 12:00
+author: enrico
+---
+
+![Autogol](http://www.tokos.it/wordpress/wp-content/uploads/2014/09/autogol.jpg){: .center-image }
+
+![wheeler](http://thumb9.shutterstock.com/display_pic_with_logo/2118029/319531826/stock-vector-sign-for-no-motorcycle-or-no-parking-sign-319531826.jpg){: .center-image }
+
+![non ho capito](http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-non-ho-capito-10.png){: .center-image }
+
+***
+
+![trinità amore](http://www.piamarta.org/image/xp091001103621.jpg){: .center-image }
+
+![wheeler](http://thumb9.shutterstock.com/display_pic_with_logo/2118029/319531826/stock-vector-sign-for-no-motorcycle-or-no-parking-sign-319531826.jpg){: .center-image }
+
+![beso beatles](https://musicadecomedia.files.wordpress.com/2014/03/acrosstheuniverse3.jpg){: .center-image }

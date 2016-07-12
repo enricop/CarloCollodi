@@ -1,0 +1,20 @@
+---
+layout: post
+title: "e"
+date: 2016-06-30 12:00
+author: enrico
+---
+
+![Vento solare](http://www.isf.astro.su.se/gallery/images/2003/halpha_22Aug2003_AR.4996.MFBD_color.jpg){: .center-image }
+
+![inspirare](http://img.aws.livestrongcdn.com/ls-article-image-640/cme/photography.prod.demandstudios.com/a3b4e4d4-9dae-404a-9f32-1c74c32293fe.jpg){: .center-image }
+
+![a galla](http://www.stockvault.net/blog/wp-content/uploads/2013/04/floating-14.jpg){: .center-image }
+
+***
+
+![Dolce pesce frigo](https://roadsendnaturalist.files.wordpress.com/2014/03/grass-loop.jpg){: .center-image }
+
+![inspirare](http://img.aws.livestrongcdn.com/ls-article-image-640/cme/photography.prod.demandstudios.com/a3b4e4d4-9dae-404a-9f32-1c74c32293fe.jpg){: .center-image }
+
+![cristina](http://www.cafeweb.it/wp-content/uploads/2015/06/cristina-plevani-si-sfoga.jpg){: .center-image }

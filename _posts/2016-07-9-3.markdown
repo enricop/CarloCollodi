@@ -1,0 +1,20 @@
+---
+layout: post
+title: "2"
+date: 2016-07-08 12:00
+author: enrico
+---
+
+![Arte figlia](http://www.ioarte.org/img/artisti/Isbran__Madre-e-figlia-Lezioni-di-piano_g.jpg){: .center-image }
+
+![Gatto notte](http://arterieteatro.it/wp/wp-content/uploads/2016/03/Il-gatto-con-gli-stivali-21-febbraio.jpg){: .center-image }
+
+![risposta](http://www.studioombra.com/wp-content/uploads/2014/12/siti-con-marketing-a-risposta-diretta-300x240.gif){: .center-image }
+
+<br><br><br><br><br><br><br><br>
+
+![Perdutamente sfidare](https://www.repstatic.it/content/nazionale/img/2016/06/17/214852699-566f6f4c-939e-43a8-b660-14872517d716.jpg){: .center-image }
+
+![Gatto notte](http://arterieteatro.it/wp/wp-content/uploads/2016/03/Il-gatto-con-gli-stivali-21-febbraio.jpg){: .center-image }
+
+![tre compassioni](http://in2.ccio.co/zE/O7/NA/e63cefa676cdb2659b003c264e7433e0.jpg){: .center-image }

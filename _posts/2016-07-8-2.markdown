@@ -1,0 +1,20 @@
+---
+layout: post
+title: "2"
+date: 2016-07-08 12:00
+author: enrico
+---
+
+![informatici povera gente](http://vignette1.wikia.nocookie.net/nonciclopedia/images/8/82/Hacker.jpg){: .center-image }
+
+![assorbente vero amore](https://eidoslaforzadelleidee.files.wordpress.com/2015/05/assorbenti-boy.jpg){: .center-image }
+
+![sarabanda](http://uomogattosilado.altervista.org/wp-content/uploads/2014/01/finedelprimogioco.jpg){: .center-image }
+
+<br><br><br><br><br><br><br><br>
+
+![leggere digiuno](http://diakonos.myblog.it/wp-content/uploads/sites/142507/2014/03/PreghieraDigiuno.jpg){: .center-image }
+
+![assorbente vero amore](https://eidoslaforzadelleidee.files.wordpress.com/2015/05/assorbenti-boy.jpg){: .center-image }
+
+![via](http://www.terresiena.it/images/francigena/guida_del_pellegrino.jpg){: .center-image }

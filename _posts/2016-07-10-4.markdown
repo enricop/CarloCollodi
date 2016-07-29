@@ -1,0 +1,21 @@
+---
+layout: post
+title: "4"
+date: 2016-07-10 12:00
+author: enrico
+---
+
+![Servo presente](http://www.metastasio.net/media/archivio/il%20servitore_2.jpg){: .center-image }
+
+![no chiedere](https://i.ytimg.com/vi/lxy6fwfl_sY/maxresdefault.jpg){: .center-image }
+
+![figlio](http://foto.leggo.it/photos/HIGH/03/62/1810362_cicatrici.jpg){: .center-image }
+
+<br><br><br><br><br><br><br><br>
+
+![Il padrone cosa giusto](http://4.bp.blogspot.com/-DZptFUfBe5E/UafJyePCQMI/AAAAAAAAAMQ/kIUf_A14EDU/s1600/Testa+alla+coque.jpg){: .center-image }
+
+![no chiedere](https://i.ytimg.com/vi/lxy6fwfl_sY/maxresdefault.jpg){: .center-image }
+
+![rosa](https://lh6.ggpht.com/FzIWjC0ZZdr3kJFNPWxl0kIc0aoUYiAiYDcmOaRL8bI5mY_gJaeTqJmXcBmxxli0xJE=h900){: .center-image }
+

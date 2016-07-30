@@ -17,4 +17,4 @@ author: enrico
 
 ![no insolazione](https://edc2.healthtap.com/ht-staging/user_answer/reference_image/18388/large/3562851.jpeg){: .center-image }
 
-![tango](http://www.stardanceschool.com/images/tango-dance-lessons-kids.jpg){: .center-image }
+![tango](http://www.stardanceschool.com/images/tango-dance-lessons-kids.jpg)

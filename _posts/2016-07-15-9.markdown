@@ -5,7 +5,7 @@ date: 2016-07-15 12:00
 author: enrico
 ---
 
-![tutto a posto?](http://i.imgur.com/uTMAg.jpg){: .center-image }
+![tutto a posto?](http://sport.ilmessaggero.it/photos/PANORAMA/84/22/1678422_spalletti_totti_tapiro_1.jpg){: .center-image }
 
 ![no stile libero](http://www.swim4lifemagazine.it/wp-content/uploads/2015/08/ryan-lochte-underwater-doha.jpg){: .center-image }
 
